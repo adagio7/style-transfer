@@ -1,5 +1,10 @@
 # Neural Style Transfer
-[![Paper](https://arxiv.org/abs/1508.06576)](https://arxiv.org/abs/1508.06576)
+
+<div align="center">
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org/abs/1508.06576)
+
+</div>
 
 ## Appendix
 * [Description](#description)
